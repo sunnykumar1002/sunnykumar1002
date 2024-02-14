@@ -7,7 +7,7 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
@@ -31,7 +31,7 @@
   <samp>
     <a href=https://in.linkedin.com/in/sunny-kumar-0303921b5">「 Google Me 」</a>
     <br>
-    「 I am a Cloud Engineer? Building and Maintaining the Cloud <b>Delhi</b> 」
+    「 I am a Cloud Engineer? Building and Maintaining the Cloud <b></b> 」
     <br>
     <br>
   </samp>
