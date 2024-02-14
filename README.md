@@ -42,12 +42,7 @@
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Sunny" />
  </a> -->
- <a href="https://in.linkedin.com/in/sunny-kumar-0303921b5/edit/main/README.md" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://in.linkedin.com/in/sunny-kumar-0303921b5/edit/main/README.md" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Sunny" />
- </a> 
+ 
  
 </p>
 <br />
